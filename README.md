@@ -25,7 +25,7 @@ Built using HTML, CSS, and JavaScript with full keyboard and mouse support.
 
 ## 📂 Project Structure
 .
-├── calc.html # Main HTML file
+├── index.html # Main HTML file
 ├── Cstyles.css # CSS styling
 ├── Cscripts.js # JavaScript logic
 └── README.md # Documentation
@@ -33,7 +33,7 @@ Built using HTML, CSS, and JavaScript with full keyboard and mouse support.
 
 ## 🚀 How to Run
 1. Download or clone this repository.
-2. Open `calc.html` in your browser.
+2. Open `index.html` in your browser.
 3. Use either mouse clicks or keyboard input to perform calculations.
 
 ---
