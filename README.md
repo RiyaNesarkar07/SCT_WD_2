@@ -4,6 +4,8 @@ A modern, responsive calculator with a sleek glassmorphism UI.
 Built using HTML, CSS, and JavaScript with full keyboard and mouse support.
 
 ---
+# live project 
+https://riyanesarkar07.github.io/SCT_WD_2/
 
 ## 📌 Features
 - Glassmorphism design — translucent panels, smooth shadows, and hover effects.
